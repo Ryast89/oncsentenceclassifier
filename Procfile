@@ -1,0 +1,1 @@
+web: uvicorn Server_Method.app:app --host=0.0.0.0 --port=$PORT
